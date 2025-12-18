@@ -1,5 +1,21 @@
 # Estructuras de Datos
 
+Guías de ejercicios para resolver los ejercicios de la materia de Estructuras de Datos.
+
+## Requisitos
+
+Para resolver los ejercicios de las guías se recomienda tener instalada la última versión de Python, jupyter notebook y git.
+
+- Python 3.12 o superior
+- Jupyter Notebook
+- Git
+
+Para instalar las librerías necesarias copiar en la terminal el siguiente comando y ejecutarlo:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Guías de ejercicios
 
 | Guía                            | Descargar                                          |
