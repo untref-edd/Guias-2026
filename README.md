@@ -2,19 +2,37 @@
 
 Guías de ejercicios para resolver los ejercicios de la materia de Estructuras de Datos.
 
-## Requisitos
 
-Para resolver los ejercicios de las guías se recomienda tener instalada la última versión de Python, jupyter notebook y git.
+## Instalación y uso
 
-- Python 3.12 o superior
-- Jupyter Notebook
-- Git
+Este proyecto utiliza un `Makefile` para facilitar la instalación de dependencias y el mantenimiento del código.
 
-Para instalar las librerías necesarias copiar en la terminal el siguiente comando y ejecutarlo:
+### Uso de `make`
+
+Si tienes `make` instalado en tu sistema, puedes utilizar los siguientes comandos:
+
+*   **Ver comandos disponibles:**
+    ```bash
+    make help
+    ```
+*   **Instalar dependencias:**
+    ```bash
+    make install
+    ```
+*   **Formatear el código (Python y Notebooks):**
+    ```bash
+    make fmt
+    ```
+
+### Alternativa con `pip`
+
+Si no tienes `make` disponible, puedes instalar las librerías necesarias directamente con `pip`:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+---
 
 ## Guías de ejercicios
 
