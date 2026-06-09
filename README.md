@@ -36,14 +36,14 @@ pip install -r requirements.txt
 
 ## Guías de ejercicios
 
-| Guía                            | Descargar                                          |
-| ------------------------------- | -------------------------------------------------- |
-| Introducción a Python (Parte 1) | [Descargar](./1_IntroPython_Guia-1.ipynb?raw=true) |
-| Introducción a Python (Parte 2) | [Descargar](./1_IntroPython_Guia-2.ipynb?raw=true) |
-| Grafos (Parte 1)                | [Descargar](./2_Grafos_Guia-1.ipynb?raw=true)      |
-| Grafos (Parte 2)                | [Descargar](./2_Grafos_Guia-2.ipynb?raw=true)      |
-| Grafos (Parte 3)                | [Descargar](./2_Grafos_Guia-3.ipynb?raw=true)      |
-| Registros                       | [Descargar](./3_Registros_Guia-1.ipynb?raw=true)   |
-| XML y XPath                     | [Descargar](./4_XML_Guia-1.ipynb?raw=true)         |
-| Expresiones Regulares           | [Descargar](./5_Regex_Guia-1.ipynb?raw=true)       |
-| APIs Web                        | [Descargar](./6_Web_Guia-1.ipynb?raw=true)         |
+| Guía                                                 | Descargar                                                           |
+| ---------------------------------------------------- | ------------------------------------------------------------------- |
+| Introducción a Python (Guía 1)                       | [Descargar](./1_IntroPython_Guia_1.ipynb?raw=true)                  |
+| Python Avanzado (Guía 2)                             | [Descargar](./1_IntroPython_Guia_2.ipynb?raw=true)                  |
+| Grafos: Introducción y Representación (Guía 1)       | [Descargar](./2_Grafos_Guia_1.ipynb?raw=true)                       |
+| Grafos: Recorridos y Orden Topológico (Guía 2)       | [Descargar](./2_Grafos_Guia_2.ipynb?raw=true)                       |
+| Grafos: Caminos Mínimos (Guía 3)                     | [Descargar](./2_Grafos_Guia_3.ipynb?raw=true)                       |
+| Registros (Guía 1)                                   | [Descargar](./3_Registros_Guia_1.ipynb?raw=true)                    |
+| XML, XPath y Expresiones Regulares (Guía 2)          | [Descargar](./3_XML_Regex_Guia_2.ipynb?raw=true)                    |
+| Web, APIs y Scraping (Guía 3)                        | [Descargar](./3_Web_APIs_Scrapping_Guia_3.ipynb?raw=true)           |
+| Índices Invertidos: Construcción y Consultas (Guía 1)| [Descargar](./4_IndicesInvertidos_Guia1.ipynb?raw=true)             |
